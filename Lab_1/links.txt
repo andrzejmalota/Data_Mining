@@ -1,0 +1,2 @@
+https://biocyc.org/preferences.html?status=new
+https://biocyc.org/group?id=:ALL-PATHWAYS&org-id=META#
